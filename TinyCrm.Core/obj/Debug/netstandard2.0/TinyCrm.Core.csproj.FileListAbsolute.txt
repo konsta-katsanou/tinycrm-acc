@@ -1,0 +1,9 @@
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.AssemblyInfoInputs.cache
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.AssemblyInfo.cs
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.deps.json
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.dll
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.pdb
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.dll
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.pdb
+C:\Users\Kostantina\Desktop\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.csprojAssemblyReference.cache
